@@ -1,8 +1,10 @@
-server:
-  port: 8080
-
 spring:
   data:
     mongodb:
-      uri: mongodb://root:example@localhost:27017/blog
-      authentication-database: admin
+      uri: mongodb://root:strongPassword123!@localhost:27017/blog
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+
+server:
+  port: 8080
