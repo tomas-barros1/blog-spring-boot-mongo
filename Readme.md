@@ -1,6 +1,6 @@
 # Blog MongoDB Application
 
-Este projeto é uma aplicação de blog desenvolvida utilizando Spring Boot e MongoDB, desenvolvida com base no curso Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB ofertado pelo professor Nelio Alves na Udemy. A aplicação permite criar, visualizar, atualizar e excluir postagens de blog. A documentação da API é gerada automaticamente com Swagger.
+Este projeto é uma aplicação de blog desenvolvida utilizando Spring Boot e MongoDB, desenvolvida com base no curso Java COMPLETO Programação Orientada a Objetos + Projetos ofertado pelo professor Nelio Alves na Udemy. A aplicação permite criar, visualizar, atualizar e excluir postagens de blog. A documentação da API é gerada automaticamente com Swagger.
 
 ## Tecnologias Utilizadas
 
